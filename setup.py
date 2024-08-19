@@ -9,8 +9,8 @@ from yalhaj_app import __version__ as version
 setup(
 	name="yalhaj_app",
 	version=version,
-	description="YALHAJ",
-	author="YALHAJ",
+	description="yalhaj",
+	author="yalhaj",
 	author_email="y@gmail.com",
 	packages=find_packages(),
 	zip_safe=False,

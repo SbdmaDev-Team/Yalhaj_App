@@ -1,6 +1,6 @@
 ## Yalhaj App
 
-YALHAJ
+yalhaj
 
 #### License
 

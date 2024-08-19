@@ -2,8 +2,8 @@ from . import __version__ as app_version
 
 app_name = "yalhaj_app"
 app_title = "Yalhaj App"
-app_publisher = "YALHAJ"
-app_description = "YALHAJ"
+app_publisher = "yalhaj"
+app_description = "yalhaj"
 app_email = "y@gmail.com"
 app_license = "MIT"
 
