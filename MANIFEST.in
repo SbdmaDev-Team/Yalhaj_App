@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include yalhaj_app *.css
+recursive-include yalhaj_app *.csv
+recursive-include yalhaj_app *.html
+recursive-include yalhaj_app *.ico
+recursive-include yalhaj_app *.js
+recursive-include yalhaj_app *.json
+recursive-include yalhaj_app *.md
+recursive-include yalhaj_app *.png
+recursive-include yalhaj_app *.py
+recursive-include yalhaj_app *.svg
+recursive-include yalhaj_app *.txt
+recursive-exclude yalhaj_app *.pyc
